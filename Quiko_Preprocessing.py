@@ -241,7 +241,7 @@ def Init_Database( num_bands: int, band_mapping: dict, directory: str, backend,
     bundle = []; filenames = []
     for index, track in enumerate( track_names ):
         qkc = QuikoCircuit( num_bands, 0, 0, feature_matrix[index], Encoding_method=0, big_circ=True )
-        quiko_circ = qkc.Quantum_Circuit(0)
+        quiko_circ = qkc.Quantum_Circuit(0,1)
         if index == 5:
             print(quiko_circ)
         bundle.append(quiko_circ)
