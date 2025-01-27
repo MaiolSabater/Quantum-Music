@@ -69,36 +69,19 @@ QuiKo operates in three main stages:
 
 ## Results
 
-## Results
-
-
-
 Below is an example of QuiKo's output, showing the original audio track on the left and the generated output on the right:
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <!-- Original Audio -->
-  <div style="text-align: center;">
-    <strong>Original Audio</strong><br>
-    <audio controls>
-      <source src="https://drive.google.com/uc?export=download&id=1ctC9QFa3nKJHt4huybPKAhOAgrFboYMT" type="audio/mpeg">
-      Your browser does not support the audio element.
-    </audio>
-  </div>
+**Original Audio**:  
+<audio controls>
+  <source src="https://drive.google.com/uc?export=download&id=1ctC9QFa3nKJHt4huybPKAhOAgrFboYMT" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
 
-  <!-- Arrow -->
-  <div style="text-align: center; font-size: 24px; margin: 0 20px;">
-    &#8594; <!-- Unicode arrow symbol -->
-  </div>
-
-  <!-- Generated Audio -->
-  <div style="text-align: center;">
-    <strong>Generated Audio</strong><br>
-    <audio controls>
-      <source src="https://drive.google.com/uc?export=download&id=1hiRm8lXtnga-AEK-AdFODQvBjgENvtLL" type="audio/mpeg">
-      Your browser does not support the audio element.
-    </audio>
-  </div>
-</div>
+**Generated Audio**:  
+<audio controls>
+  <source src="https://drive.google.com/uc?export=download&id=1hiRm8lXtnga-AEK-AdFODQvBjgENvtLL" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
 
 
 
