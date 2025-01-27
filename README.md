@@ -32,6 +32,8 @@ This project is part of a broader effort to explore the intersection of quantum 
 
 The repository is structured as follows:
 
+```plaintext
+.
 ├── DB_construction.py                    # Scripts for constructing the audio database.
 ├── Main.py                               # Main entry point of the QuiKo framework.
 ├── Quantum_Beat_Generator_Tutorial.ipynb # Tutorial notebook for using QuiKo.
@@ -41,7 +43,7 @@ The repository is structured as follows:
 ├── QuiKo_Feature_extraction.py           # Feature extraction from audio samples.
 ├── QuiKo_Preprocessing.py                # Preprocessing steps for input audio.
 ├── README.md                             # Documentation (this file).
-
+```
 
 
 ## Getting Started
