@@ -76,10 +76,11 @@ Below is an example of QuiKo's output, showing the original audio track on the l
   <div style="text-align: center;">
     <strong>Original Audio</strong><br>
     <audio controls>
-      <source src="https://drive.google.com/uc?export=download&id=1ctC9QFa3nKJHt4huybPKAhOAgrFboYMT" type="audio/mpeg">
+      <source src="https://github.com/user-attachments/assets/8b0f8983-ae08-40f9-9ae2-a1df8a440773" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
+
 
   <!-- Arrow -->
   <div style="text-align: center; font-size: 24px; margin: 0 20px;">
