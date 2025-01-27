@@ -71,31 +71,12 @@ QuiKo operates in three main stages:
 
 Below is an example of QuiKo's output, showing the original audio track on the left and the generated output on the right:
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <!-- Original Audio -->
-  <div style="text-align: center;">
-    <strong>Original Audio</strong><br>
-    <audio controls>
-      <source src=https://github.com/user-attachments/assets/8b0f8983-ae08-40f9-9ae2-a1df8a440773 type="audio/mpeg">
-      Your browser does not support the audio element.
-    </audio>
-  </div>
+- [Original Audio] 
+
+https://github.com/user-attachments/assets/d1a0e3da-0ed6-470b-96cb-dc9972065df1
 
 
-  <!-- Arrow -->
-  <div style="text-align: center; font-size: 24px; margin: 0 20px;">
-    &#8594; <!-- Unicode arrow symbol -->
-  </div>
-
-  <!-- Generated Audio -->
-  <div style="text-align: center;">
-    <strong>Generated Audio</strong><br>
-    <audio controls>
-      <source src="https://drive.google.com/uc?export=download&id=1hiRm8lXtnga-AEK-AdFODQvBjgENvtLL" type="audio/mpeg">
-      Your browser does not support the audio element.
-    </audio>
-  </div>
-</div>
+- [Generated Audio]
 
 
 
