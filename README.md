@@ -32,8 +32,6 @@ This project is part of a broader effort to explore the intersection of quantum 
 
 The repository is structured as follows:
 
-```plaintext
-.
 ├── DB_construction.py                    # Scripts for constructing the audio database.
 ├── Main.py                               # Main entry point of the QuiKo framework.
 ├── Quantum_Beat_Generator_Tutorial.ipynb # Tutorial notebook for using QuiKo.
@@ -71,17 +69,30 @@ QuiKo operates in three main stages:
 
 Below is an example of QuiKo's output, showing the original audio track on the left and the generated output on the right:
 
-**Original Audio**:  
-<audio controls>
-  <source src="https://drive.google.com/uc?export=download&id=1ctC9QFa3nKJHt4huybPKAhOAgrFboYMT" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <!-- Original Audio -->
+  <div style="text-align: center;">
+    <strong>Original Audio</strong><br>
+    <audio controls>
+      <source src="https://drive.google.com/uc?export=download&id=1ctC9QFa3nKJHt4huybPKAhOAgrFboYMT" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
 
-**Generated Audio**:  
-<audio controls>
-  <source src="https://drive.google.com/uc?export=download&id=1hiRm8lXtnga-AEK-AdFODQvBjgENvtLL" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
+  <!-- Arrow -->
+  <div style="text-align: center; font-size: 24px; margin: 0 20px;">
+    &#8594; <!-- Unicode arrow symbol -->
+  </div>
+
+  <!-- Generated Audio -->
+  <div style="text-align: center;">
+    <strong>Generated Audio</strong><br>
+    <audio controls>
+      <source src="https://drive.google.com/uc?export=download&id=1hiRm8lXtnga-AEK-AdFODQvBjgENvtLL" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
 
 
 
