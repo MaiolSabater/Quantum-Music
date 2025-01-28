@@ -11,8 +11,6 @@ This repository contains the implementation of the QuiKo framework, a quantum mu
 3. [Getting Started](#getting-started)
 4. [How QuiKo Works](#how-quiko-works)
 5. [Results](#results)
-6. [Future Work](#future-work)
-7. [References](#references)
 
 ---
 
@@ -69,14 +67,44 @@ QuiKo operates in three main stages:
 
 ## Results
 
-Below is an example of QuiKo's output, showing the original audio track on the left and the generated output on the right:
+Below is an example of QuiKo's output, showing the original audio track and the generated output, the files are in mp4 format for easier access:
 
-- [Original Audio] 
+### hiphop.00077
+- **Original Track**
 
-https://github.com/user-attachments/assets/d1a0e3da-0ed6-470b-96cb-dc9972065df1
+https://github.com/user-attachments/assets/f5cb082d-5d75-4a6e-9361-348d0e4a9c3b
 
 
-- [Generated Audio]
+- **New Track**  
+
+
+https://github.com/user-attachments/assets/7ce1e2c9-41a3-48c5-b587-4c0803bedd3a
+
+---
+
+### hiphop.00031
+- **Original Track**  
+
+
+https://github.com/user-attachments/assets/cc726fd5-c17c-413e-9838-e37b5e9763de
+
+
+
+- **New Track**  
+
+https://github.com/user-attachments/assets/4fdbb8c3-064b-4664-a5f8-6c4eb3d4fb99
+
+---
+
+### hiphop.00090
+- **Original Track**  
+
+https://github.com/user-attachments/assets/a072e47c-5cfd-4c71-bfb8-47a733c4c10e
+
+- **New Track**  
+
+https://github.com/user-attachments/assets/0ea0c9ea-b74d-47d9-8784-041c54a20850
+
 
 
 
