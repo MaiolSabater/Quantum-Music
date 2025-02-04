@@ -105,6 +105,22 @@ https://github.com/user-attachments/assets/a072e47c-5cfd-4c71-bfb8-47a733c4c10e
 
 https://github.com/user-attachments/assets/0ea0c9ea-b74d-47d9-8784-041c54a20850
 
+---
+
+### hiphop.00012
+- **Original Track**  
+
+
+
+https://github.com/user-attachments/assets/39753bf6-0c44-4d62-923c-304895f2c804
+
+
+
+- **New Track**  
+
+https://github.com/user-attachments/assets/5950e710-c623-4192-baf8-31370c06aae1
+
+
 
 
 
