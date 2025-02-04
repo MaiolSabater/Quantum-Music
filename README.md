@@ -41,6 +41,7 @@ The repository is structured as follows:
 ├── QuiKo_Feature_extraction.py           # Feature extraction from audio samples.
 ├── QuiKo_Preprocessing.py                # Preprocessing steps for input audio.
 ├── README.md                             # Documentation (this file).
+├── TheRelationshipBetweenMusic&AI.pdf    # The pdf containing the paper
 ```
 
 
