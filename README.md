@@ -81,6 +81,12 @@ https://github.com/user-attachments/assets/f5cb082d-5d75-4a6e-9361-348d0e4a9c3b
 
 https://github.com/user-attachments/assets/7ce1e2c9-41a3-48c5-b587-4c0803bedd3a
 
+- **Spectrograms**
+  
+![Untitled](https://github.com/user-attachments/assets/57d15972-5f35-4ce0-b9d1-eedd7ac39dd8)
+
+![Untitled-1](https://github.com/user-attachments/assets/c317907d-4c65-4700-b5f0-c3d11c7465f2)
+
 ---
 
 ### hiphop.00031
@@ -90,10 +96,14 @@ https://github.com/user-attachments/assets/7ce1e2c9-41a3-48c5-b587-4c0803bedd3a
 https://github.com/user-attachments/assets/cc726fd5-c17c-413e-9838-e37b5e9763de
 
 
-
 - **New Track**  
 
 https://github.com/user-attachments/assets/4fdbb8c3-064b-4664-a5f8-6c4eb3d4fb99
+
+- **Spectrograms**
+  
+![image](https://github.com/user-attachments/assets/db269811-ab3f-4c67-84e9-9bbc4b0f58f2)
+![image](https://github.com/user-attachments/assets/80f15eff-db9d-4e92-bb8e-7f7bf244db75)
 
 ---
 
@@ -106,9 +116,16 @@ https://github.com/user-attachments/assets/a072e47c-5cfd-4c71-bfb8-47a733c4c10e
 
 https://github.com/user-attachments/assets/0ea0c9ea-b74d-47d9-8784-041c54a20850
 
+- **Spectrograms**
+  
+![Untitled](https://github.com/user-attachments/assets/dfeff52f-6372-43a5-aa00-0156b5891ff1)
+![Untitled-1](https://github.com/user-attachments/assets/492dcae0-d275-40a5-9165-17227f6b4893)
+
+
+
 ---
 
-### hiphop.00012
+### hiphop.00019
 - **Original Track**  
 
 
@@ -120,6 +137,13 @@ https://github.com/user-attachments/assets/39753bf6-0c44-4d62-923c-304895f2c804
 - **New Track**  
 
 https://github.com/user-attachments/assets/5950e710-c623-4192-baf8-31370c06aae1
+
+- **Spectrograms**
+  
+![Untitled](https://github.com/user-attachments/assets/ff43c488-8baf-43a5-aa13-44016afdc05f)
+![Untitled-1](https://github.com/user-attachments/assets/ac2bedcc-4824-4b88-8545-74992627c8a5)
+
+
 
 
 
