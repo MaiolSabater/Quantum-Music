@@ -87,6 +87,14 @@ https://github.com/user-attachments/assets/7ce1e2c9-41a3-48c5-b587-4c0803bedd3a
 
 ![Untitled-1](https://github.com/user-attachments/assets/c317907d-4c65-4700-b5f0-c3d11c7465f2)
 
+
+The most noticeable changes occur in the low and mid-frequency ranges, where the original drum track was removed and replaced. 
+- Regarding Low-Frequency Range (0 - 500 Hz): In the Original Track Spectrogram, the low-frequency region contains a strong presence of bass and drums, with dense energy regions. In the AI Modified Track Spectrogram, the lower frequencies (below ~200 Hz) seem less dominant, especially in the regions where the original drum track was removed. However, new percussive energy patterns appear in this range, indicating that the AI-generated drum beat has been added.
+- For the Mid-Frequency Range (500 - 5000 Hz): The AI Modified Track Spectrogram shows some variations, possibly due to the reintroduction of the AI-generated drum beat, which could be affecting the spectral energy in this range.
+- Finally for the High-Frequency Range (Above 5000 Hz): Both spectrograms display similar structures in this range, but the AI Modified Track Spectrogram exhibits subtle differences, potentially due to artifacts from the drum separation and reintegration process.
+
+Basically, in the AI-modified version, there are new percussive patterns, which are visible as structured, repeated energy bursts in the lower frequencies, the AI drums have different dynamics compared to the original, with variations in intensity and spectral distribution.
+
 ---
 
 ### hiphop.00031
@@ -105,6 +113,13 @@ https://github.com/user-attachments/assets/4fdbb8c3-064b-4664-a5f8-6c4eb3d4fb99
 ![image](https://github.com/user-attachments/assets/db269811-ab3f-4c67-84e9-9bbc4b0f58f2)
 ![image](https://github.com/user-attachments/assets/80f15eff-db9d-4e92-bb8e-7f7bf244db75)
 
+The AI-generated drums do not seem to fully replicate the energy of the original drums, which might make the track feel different in terms of rhythm and impact. However still fitting the track, providing a different feeling for the song.
+- Low-Frequency Range (0 - 500 Hz): The Original Track Spectrogram shows consistent percussive elements in the lower frequencies, with prominent bursts of energy at regular intervals, characteristic of a drumbeat. The AI Modified Track Spectrogram appears to have fewer and weaker percussive elements in this range. Some new energy bursts are present, which indicates that the AI-generated drum beat has been introduced, but the spectral structure is different from the original.
+- Mid-Frequency Range (500 - 5000 Hz): The AI Modified Track Spectrogram still maintains most of these harmonics, but some areas appear slightly less dense, likely due to the separation and remixing process. The presence of harmonic structures in both suggests that the AI did not significantly alter the melodic components of the song.
+- High-Frequency Range (Above 5000 Hz): In both spectrograms, the high-frequency range remains relatively sparse, which is typical for most songs. However, the AI Modified Track Spectrogram exhibits reduced energy in the upper frequencies, which could be due the separation process.
+
+
+
 ---
 
 ### hiphop.00090
@@ -122,16 +137,17 @@ https://github.com/user-attachments/assets/0ea0c9ea-b74d-47d9-8784-041c54a20850
 ![Untitled-1](https://github.com/user-attachments/assets/492dcae0-d275-40a5-9165-17227f6b4893)
 
 
+The new drum beat is more uniform and has less dynamic variation compared to the original, which might affect the track’s natural feel.
+- Low-Frequency Range (0 - 500 Hz): The Original Track Spectrogram shows strong percussive elements at regular intervals, with a significant concentration of energy around 50-200 Hz, indicating a prominent drum presence. In the AI Modified Track Spectrogram, the low-frequency percussive elements are smoother and more uniform, suggesting that the AI-generated drum beat was introduced while removing the original drums.
+- Mid-Frequency Range (500 - 5000 Hz): Both spectrograms show similar structures in this range, meaning that the AI modification did not significantly alter the harmonic content.
+- High-Frequency Range (Above 5000 Hz): The AI-modified version has slightly weaker high-frequency components, which is a common result of the source separation process, where subtle high-end details may be lost.
 
 ---
 
 ### hiphop.00019
 - **Original Track**  
 
-
-
 https://github.com/user-attachments/assets/39753bf6-0c44-4d62-923c-304895f2c804
-
 
 
 - **New Track**  
@@ -143,7 +159,12 @@ https://github.com/user-attachments/assets/5950e710-c623-4192-baf8-31370c06aae1
 ![Untitled](https://github.com/user-attachments/assets/ff43c488-8baf-43a5-aa13-44016afdc05f)
 ![Untitled-1](https://github.com/user-attachments/assets/ac2bedcc-4824-4b88-8545-74992627c8a5)
 
-
+The AI-modified version has a stronger sub-bass presence, suggesting a heavier kick drum or enhanced low-end.
+- Low-Frequency Range (0 - 500 Hz): In the Original Track Spectrogram, there are strong percussive elements visible at low frequencies (below ~200 Hz), consistent with a drum track presence.
+The AI Modified Track Spectrogram shows a more prominent and uniform low-frequency presence, particularly in the sub-bass region (0-100 Hz). This suggests that the AI-generated drum beat adds a heavier low-end presence compared to the original. The original had more transient (sharp) percussive elements, whereas the AI-modified version has smoother, more sustained low-frequency energy, indicating a different kick drum sound.
+- Mid-Frequency Range (500 - 5000 Hz): The mid-range harmonic structures are preserved, meaning the vocals, guitars, and other melodic instruments remain largely unchanged. However, the AI Modified Track Spectrogram shows some added intensity in this range, suggesting that the AI might have slightly altered the mixing levels of the remaining tracks.
+- High-Frequency Range (Above 5000 Hz): The Original Track Spectrogram contains sharp, well-defined high-frequency transients, likely from cymbals and hi-hats.
+In the AI Modified Track Spectrogram, the high frequencies appear somewhat more uniform and less distinct, suggesting that the AI drum replacement may have reduced the dynamic range of high-frequency elements. Some details in the high-end are less prominent, which is a side effect of source separation.
 
 
 
